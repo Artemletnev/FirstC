@@ -1,0 +1,15 @@
+C:\Git\C#\Lesson_1\Ex_1_1\bin\Debug\net6.0\Ex_1_1.exe
+C:\Git\C#\Lesson_1\Ex_1_1\bin\Debug\net6.0\Ex_1_1.deps.json
+C:\Git\C#\Lesson_1\Ex_1_1\bin\Debug\net6.0\Ex_1_1.runtimeconfig.json
+C:\Git\C#\Lesson_1\Ex_1_1\bin\Debug\net6.0\Ex_1_1.dll
+C:\Git\C#\Lesson_1\Ex_1_1\bin\Debug\net6.0\Ex_1_1.pdb
+C:\Git\C#\Lesson_1\Ex_1_1\obj\Debug\net6.0\Ex_1_1.csproj.AssemblyReference.cache
+C:\Git\C#\Lesson_1\Ex_1_1\obj\Debug\net6.0\Ex_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\C#\Lesson_1\Ex_1_1\obj\Debug\net6.0\Ex_1_1.AssemblyInfoInputs.cache
+C:\Git\C#\Lesson_1\Ex_1_1\obj\Debug\net6.0\Ex_1_1.AssemblyInfo.cs
+C:\Git\C#\Lesson_1\Ex_1_1\obj\Debug\net6.0\Ex_1_1.csproj.CoreCompileInputs.cache
+C:\Git\C#\Lesson_1\Ex_1_1\obj\Debug\net6.0\Ex_1_1.dll
+C:\Git\C#\Lesson_1\Ex_1_1\obj\Debug\net6.0\refint\Ex_1_1.dll
+C:\Git\C#\Lesson_1\Ex_1_1\obj\Debug\net6.0\Ex_1_1.pdb
+C:\Git\C#\Lesson_1\Ex_1_1\obj\Debug\net6.0\Ex_1_1.genruntimeconfig.cache
+C:\Git\C#\Lesson_1\Ex_1_1\obj\Debug\net6.0\ref\Ex_1_1.dll
